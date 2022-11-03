@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from alignmentchart import alignmentchart
 
 output_file = 'jouluesinekalenterichart.png'
@@ -28,11 +29,11 @@ alignments = [
     'lawful evil', 'neutral evil', 'chaotic evil',
 ]
 
-filenames = [
+filenames = ['joulukalenteri/%s' % x for x in [
     'suklaa', 'tee', 'lelu',
     'puuro', 'pillerit', 'chanel',
     'karkki', 'viina', 'tyhjyys',
-]
+]]
 
 explanations = [
     'suklaajoulukalenteri', '24-osainen teelajitelma', 'leikkikaluja lokeroissa',
