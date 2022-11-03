@@ -5,20 +5,20 @@ chart_title = 'jouluesinekalenteri\nalignment\nchart'
 explainer = '\non joulukalenteri'
 
 main_descs_lawfulness = [
-    ('hyöty purist',
+    ('hyötypuristi',
         'tuotteen sisällöstä on\nobjektiivista iloa ja/tai hyötyä\nkoko perheelle'),
-    ('hyöty neutral',
+    ('hyötyneutraali',
         'tuotteen sisältö on\nsuunnitellussa muodossaan\narvokasta jollekin ihmisryhmälle'),
-    ('hyöty radical',
+    ('hyötyradikaali',
         'tuotteen sisältö on\npaskaa hienossa paketissa\nja maksaja häviää pelin'),
 ]
 
 main_descs_goodness = [
-    ('terveellisyys purist',
+    ('terveellisyyspuristi',
         'tuote tarjoaa\nvälitöntä iloa ja rauhaa\nerityisesti joulun aikaan'),
-    ('terveellisyys neutral',
+    ('terveellisyysneutraali',
         'tuote on yleishyödyllinen\nfyysiselle tai henkiselle\nhyvinvoinnille'),
-    ('terveellisyys radical',
+    ('terveellisyysradikaali',
         'tuote on vähintäänkin kyseenalainen,\naiheuttanee välitöntä tai pitkäaikaista\nterveyshaittaa'),
 ]
 
@@ -37,7 +37,7 @@ filenames = [
 explanations = [
     'suklaajoulukalenteri', '24-osainen teelajitelma', 'leikkikaluja lokeroissa',
     '24 puuron lajitelma', 'neljän viikon ehkäisypillerit', 'wannabe lokerikko\nkosmetiikkatuotteita',
-    '30 gigajoulea karkkia päivässä\nalhaisella kilohinnalla', '24-osainen viskilajitelma', 'pula-ajan mummon myymä\ntyhjä suklaakalenteri kirpputorilta',
+    '30 gigajoulea karkkia päivässä\nalhaisella kilohinnalla', 'viski- tai muu\nviinalajitelma', 'pula-ajan mummon myymä\ntyhjä suklaakalenteri kirpputorilta',
 ]
 
 if __name__ == "__main__":

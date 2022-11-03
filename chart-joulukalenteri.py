@@ -5,20 +5,20 @@ chart_title = 'joulukalenteri\nalignment\nchart'
 explainer = '\non joulukalenteri'
 
 main_descs_goodness = [
-    ('kalenteri purist',
+    ('kalenteripuristi',
         'tuote on yleisesti hyväksytty\najan seuraamiseen\nerityisesti jouluna'),
-    ('kalenteri neutral',
-        'tuotteella voi seurata ajan kulua,\nväkisin väännetty joulun teemaan'),
-    ('kalenteri radical',
+    ('kalenterineutraali',
+        'tuotteella voi seurata ajan kulua,\nsopii sattumalta jouluaikaan'),
+    ('kalenteriradikaali',
         'tuote on teknisesti jaettavissa\n24 osaan, ajan kulumisen\nseuranta kyseenalaista'),
 ]
 
 main_descs_lawfulness = [
-    ('joulu purist',
+    ('joulupuristi',
         'tuote on objektiivisesti tunnustettu\nosa joulun kulttuuria\nvauvasta vaariin'),
-    ('joulu neutral',
+    ('jouluneutraali',
         'tuotteen teema\nsopii kulttuurissa hyvin\njoulun odottamiseen'),
-    ('joulu radical',
+    ('jouluradikaali',
         'tuotteen teema tai laatu\non väkisin tai huonosti\nväännetty joulun yhteyteen'),
 ]
 
